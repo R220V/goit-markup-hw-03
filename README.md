@@ -1,4 +1,3 @@
 # goit-markup-hw-02
 
-Модуль 2, hw2. Done
-Thi is my first progect "GoIT"
+Модуль 3, hw3. Done
